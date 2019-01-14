@@ -12,6 +12,7 @@
     "require": {
         "yiswoole/spl": "dev-master"
     },
+    "minimum-stability": "dev",
     "require-dev": {
 
     },
