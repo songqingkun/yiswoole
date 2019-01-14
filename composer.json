@@ -1,0 +1,22 @@
+{
+    "name": "yiswoole/yiswoole",
+    "description": "yiswoole library",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "sqk",
+            "email": "601307105@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "yiswoole/spl": "dev-master"
+    },
+    "autoload": {
+      "psr-4": {
+        "yiswoole\\yiswoole\\": "src/"
+      }
+    }
+}

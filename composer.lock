@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ccf9cde8320a81cdaa405b25dc644847",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "yiswoole/spl",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/songqingkun/spl.git",
+                "reference": "8aaccaf1691f78a0f896cac8ef830ef13485293f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/songqingkun/spl/zipball/8aaccaf1691f78a0f896cac8ef830ef13485293f",
+                "reference": "8aaccaf1691f78a0f896cac8ef830ef13485293f",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "yiswoole\\Spl\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "description": "yiswoole spl library",
+            "time": "2019-01-11T09:31:20+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "yiswoole/spl": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
