@@ -15,8 +15,8 @@
         "yiswoole/spl": "dev-master"
     },
     "autoload": {
-      "psr-4": {
-        "yiswoole\\yiswoole\\": "src/"
-      }
+        "psr-4": {
+            "yiswoole\\yiswoole\\": "src/"
+        }
     }
 }
