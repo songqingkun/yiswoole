@@ -9,7 +9,6 @@
             "email": "601307105@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "yiswoole/spl": "dev-master"
     },
