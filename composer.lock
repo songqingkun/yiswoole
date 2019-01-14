@@ -4,21 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ccf9cde8320a81cdaa405b25dc644847",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "0aba2e7416453fc4bc7f7494aa89b986",
+    "packages": [
         {
             "name": "yiswoole/spl",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/songqingkun/spl.git",
-                "reference": "8aaccaf1691f78a0f896cac8ef830ef13485293f"
+                "reference": "4fe38a947b845aa50266935d13f4914cfb8560d8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/songqingkun/spl/zipball/8aaccaf1691f78a0f896cac8ef830ef13485293f",
-                "reference": "8aaccaf1691f78a0f896cac8ef830ef13485293f",
+                "url": "https://api.github.com/repos/songqingkun/spl/zipball/4fe38a947b845aa50266935d13f4914cfb8560d8",
+                "reference": "4fe38a947b845aa50266935d13f4914cfb8560d8",
                 "shasum": ""
             },
             "require": {
@@ -35,9 +34,10 @@
                 "Apache-2.0"
             ],
             "description": "yiswoole spl library",
-            "time": "2019-01-11T09:31:20+00:00"
+            "time": "2019-01-14T04:08:11+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {

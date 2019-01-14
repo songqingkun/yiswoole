@@ -10,9 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "require-dev": {
+    "require": {
         "yiswoole/spl": "dev-master"
+    },
+    "require-dev": {
+
     },
     "autoload": {
         "psr-4": {
