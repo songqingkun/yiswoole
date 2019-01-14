@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "yiswoole/spl": "master"
+        "yiswoole/spl": "dev-master"
     },
     "require-dev": {
 
